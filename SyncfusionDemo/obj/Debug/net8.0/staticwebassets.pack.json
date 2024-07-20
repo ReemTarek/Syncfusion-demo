@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SyncfusionDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SyncfusionDemo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SyncfusionDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SyncfusionDemo.props",
+      "PackagePath": "build\\SyncfusionDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SyncfusionDemo.props",
+      "PackagePath": "buildMultiTargeting\\SyncfusionDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SyncfusionDemo.props",
+      "PackagePath": "buildTransitive\\SyncfusionDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

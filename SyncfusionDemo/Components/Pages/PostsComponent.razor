@@ -1,0 +1,104 @@
+﻿@page "/posts"
+@using SyncfusionDemo.Data
+@using Syncfusion.Blazor.Grids
+@using Syncfusion.Blazor.Notifications
+
+@attribute [StreamRendering]
+@rendermode InteractiveServer
+<h3>Posts</h3>
+
+<SfToast @ref="ToastObj" ID="toast_type">
+    <ToastPosition X="@ToastPosition"></ToastPosition>
+</SfToast>
+
+@if (Posts != null)
+{
+    <div class="col-lg-12 control-section">
+        <div class="content-wrapper">
+            <div class="row">
+                <SfGrid DataSource="@Posts" AllowPaging="true" Toolbar="@(new List<string>() { "Add", "Edit", "Delete", "Update", "Cancel" })">
+                    <GridEditSettings AllowAdding="true" AllowDeleting="true" AllowEditing="true" Mode="EditMode.Dialog"></GridEditSettings>
+                    <GridEvents OnActionBegin="ActionBegin" TValue="PostsModel" />
+
+                    <GridColumns>
+                        <GridColumn Field=@nameof(PostsModel.Id) IsPrimaryKey="true" HeaderText="ID" TextAlign="TextAlign.Right" Width="120"></GridColumn>
+                        <GridColumn Field=@nameof(PostsModel.Title) HeaderText="Post Title" Width="150"></GridColumn>
+                        <GridColumn Field=@nameof(PostsModel.Description) HeaderText="Post Desc" TextAlign="TextAlign.Right" Width="130"></GridColumn>
+
+                    </GridColumns>
+                </SfGrid>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <p>Loading...</p>
+}
+
+@code {
+    List<PostsModel>? Posts = new List<PostsModel>();
+    SfToast? ToastObj;
+    private string ToastPosition = "Right";
+    protected override async Task OnInitializedAsync()
+    {
+        await FillPosts();
+
+    }
+    async Task FillPosts()
+    {
+
+        for (int i = 0; i < 10; i++)
+        {
+            PostsModel fillObj = new PostsModel();
+            fillObj.Id = i + 1;
+            fillObj.Title = "Title" + i.ToString();
+            fillObj.Description = "Desc " + i.ToString();
+            Posts.Add(fillObj);
+
+        }
+    }
+    public async Task ActionBegin(ActionEventArgs<PostsModel> arg)
+    {
+        //Handles add operation
+        if (arg.RequestType.Equals(Syncfusion.Blazor.Grids.Action.Add))
+        {
+            arg.Data = new PostsModel();
+            arg.Data.Id = Posts.OrderByDescending(f => f.Id).FirstOrDefault().Id + 1;
+        }
+
+        if (arg.RequestType.Equals(Syncfusion.Blazor.Grids.Action.Save))
+        {
+            try
+            {
+                if (arg.Action == "Add")
+                {
+
+                    Posts.Add(arg.Data);
+                }
+                else
+                {
+                    Posts.Where(f => f.Id == arg.Data.Id).FirstOrDefault().Title = arg.Data.Title;
+                    Posts.Where(f => f.Id == arg.Data.Id).FirstOrDefault().Description = arg.Data.Description;
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+                await this.ToastObj!.ShowAsync(new ToastModel { Title = "Error!", Content = ex.Message, CssClass = "e-toast-error" });
+
+            }
+        }
+        if (arg.RequestType.Equals(Syncfusion.Blazor.Grids.Action.Delete))
+        {
+            Posts.Remove(arg.Data);
+            await this.ToastObj!.ShowAsync(new ToastModel { Title = "Success!", Content = "Data Updated", CssClass = "e-toast-success" });
+
+        }
+        StateHasChanged();
+    }
+
+
+}

@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\components\\pages\\postscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\components\\pages\\postscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\data\\postsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\data\\postsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|d:\\blazor.net8 trial\\syncfusiontraining\\syncfusiondemo\\syncfusiondemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D4BFB7-8570-43CA-9C7B-E4502FE2E834}|SyncfusionDemo\\SyncfusionDemo.csproj|solutionrelative:syncfusiondemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 274,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "SyncfusionDemo\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T10:43:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "SyncfusionDemo\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T10:18:28.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SyncfusionDemo\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:45:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsComponent.razor",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\PostsComponent.razor",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Components\\Pages\\PostsComponent.razor",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\PostsComponent.razor",
+              "RelativeToolTip": "SyncfusionDemo\\Components\\Pages\\PostsComponent.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:45:08.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsModel.cs",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Data\\PostsModel.cs",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Data\\PostsModel.cs",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Data\\PostsModel.cs",
+              "RelativeToolTip": "SyncfusionDemo\\Data\\PostsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:44:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "SyncfusionDemo\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:03:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\App.razor",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Components\\App.razor",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\App.razor",
+              "RelativeToolTip": "SyncfusionDemo\\Components\\App.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:03:08.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Program.cs",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Program.cs",
+              "RelativeToolTip": "SyncfusionDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:02:44.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "SyncfusionDemo\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Blazor.Net8 Trial\\SyncfusionTraining\\SyncfusionDemo\\SyncfusionDemo\\Components\\_Imports.razor",
+              "RelativeToolTip": "SyncfusionDemo\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:02:21.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
